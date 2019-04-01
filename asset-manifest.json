@@ -1,13 +1,13 @@
 {
   "main.css": "/tourneymap/static/css/main.326e7414.chunk.css",
-  "main.js": "/tourneymap/static/js/main.ab5f5471.chunk.js",
-  "main.js.map": "/tourneymap/static/js/main.ab5f5471.chunk.js.map",
+  "main.js": "/tourneymap/static/js/main.767dc741.chunk.js",
+  "main.js.map": "/tourneymap/static/js/main.767dc741.chunk.js.map",
   "static/js/1.3c7cc75b.chunk.js": "/tourneymap/static/js/1.3c7cc75b.chunk.js",
   "static/js/1.3c7cc75b.chunk.js.map": "/tourneymap/static/js/1.3c7cc75b.chunk.js.map",
   "runtime~main.js": "/tourneymap/static/js/runtime~main.b4533a1c.js",
   "runtime~main.js.map": "/tourneymap/static/js/runtime~main.b4533a1c.js.map",
   "static/css/main.326e7414.chunk.css.map": "/tourneymap/static/css/main.326e7414.chunk.css.map",
   "index.html": "/tourneymap/index.html",
-  "precache-manifest.b88c23d8a6ad365fab4c171e4c31d627.js": "/tourneymap/precache-manifest.b88c23d8a6ad365fab4c171e4c31d627.js",
+  "precache-manifest.889455ef6c298f8b8d00dcb7ee376624.js": "/tourneymap/precache-manifest.889455ef6c298f8b8d00dcb7ee376624.js",
   "service-worker.js": "/tourneymap/service-worker.js"
 }

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/tourneymap/precache-manifest.b88c23d8a6ad365fab4c171e4c31d627.js"
+  "/tourneymap/precache-manifest.889455ef6c298f8b8d00dcb7ee376624.js"
 );
 
 workbox.clientsClaim();

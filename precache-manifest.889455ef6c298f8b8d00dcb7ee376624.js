@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/tourneymap/static/js/runtime~main.b4533a1c.js"
   },
   {
-    "revision": "ab5f547189ec38f29f6b",
-    "url": "/tourneymap/static/js/main.ab5f5471.chunk.js"
+    "revision": "767dc741fb4d7c15f407",
+    "url": "/tourneymap/static/js/main.767dc741.chunk.js"
   },
   {
     "revision": "3c7cc75b5d5cb038f1be",
     "url": "/tourneymap/static/js/1.3c7cc75b.chunk.js"
   },
   {
-    "revision": "ab5f547189ec38f29f6b",
+    "revision": "767dc741fb4d7c15f407",
     "url": "/tourneymap/static/css/main.326e7414.chunk.css"
   },
   {
-    "revision": "e13906bca2bbe5e04ef198d1b7ee05fc",
+    "revision": "af7fb0bba70970f22be7b797183a7428",
     "url": "/tourneymap/index.html"
   }
 ];
